@@ -10,8 +10,9 @@
 
 ## 技术栈
 
-FastAPI
-AMIS
+- Python 3.12
+- FastAPI
+- AMIS
 
 ## 运行
 
